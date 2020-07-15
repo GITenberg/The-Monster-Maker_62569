@@ -1,0 +1,40 @@
+_repo: The-Monster-Maker_62569
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doolin, Joseph
+    alias: Doolin, Joseph Patrick
+    birthdate: 1896
+    deathdate: 1967
+    gutenberg_agent_id: '51844'
+    url: http://www.gutenberg.org/2009/agents/51844
+creator:
+  author:
+    agent_name: Bradbury, Ray
+    aliases:
+    - Elliott, William
+    - Bradbury, Raymond Douglas
+    birthdate: 1920
+    deathdate: 2012
+    gutenberg_agent_id: '41269'
+    url: http://www.gutenberg.org/2009/agents/41269
+    wikipedia: https://en.wikipedia.org/wiki/Ray_Bradbury
+description: ''
+gutenberg_issued: '2020-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Asteroids -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Pirates -- Fiction'
+- GITenberg
+title: The Monster Maker
+url: http://www.gutenberg.org/ebooks/62569
